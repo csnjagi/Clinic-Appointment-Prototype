@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #1d3557;
+}
+
+form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+form input[type="text"],
+form input[type="number"],
+form input[type="date"],
+form input[type="time"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+input[type="submit"],
+.btn,
+.btn-secondary {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #457b9d;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn-secondary {
+    background-color: #adb5bd;
+}
+
+input[type="submit"]:hover,
+.btn:hover,
+.btn-secondary:hover {
+    background-color: #1d3557;
+}
+
+.menu-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.error {
+    color: red;
+    list-style: none;
+    padding: 0;
+}
+
+.appointment-list {
+    list-style: none;
+    padding: 0;
+}

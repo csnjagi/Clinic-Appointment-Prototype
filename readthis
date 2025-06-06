@@ -1,0 +1,11 @@
+NAME: COLLINS STEVE NJAGI
+
+REG NO: COM/2386/23
+
+DOMAIN: Health
+
+PROBLEM: Patients tend to find it difficult to book clinic appointments efficiently, especially in understaffed or busy clinics. A simple web-based system can schedule appointments more efficiently. The objective is to create a simple web-based clinic appointment booking system. Patients make appointments by filling in a form with personal details, preferred date and time, and reason for visit. The system displays upcoming appointments for administrative verification
+
+MODEL: Throwaway Prototyping
+
+JUSTIFICATION FOR THROWAWAY PROTOTYPING: I chose the Throwaway Prototyping Model because it's great for quick creation of prototypes and experimentation when the requirements are still not defined. Because this is an appointment system for a clinic, I wanted to focus on the core features—like scheduling an appointment and viewing the schedule—and see how they actually play out.". Using this model, I was able to create a rough working prototype that could be tested with users and feedback provided. It wasn't to develop the finished system immediately, but to mess around with the concept and tweak it early on, before producing a more advanced version. Once feedback is obtained, this prototype can be abandoned and a superior, safer, and more developed system constructed with much more certainty.
